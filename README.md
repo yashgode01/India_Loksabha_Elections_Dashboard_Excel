@@ -20,5 +20,6 @@ MS Excel
 ### Conclusion:
 - "Bhartiya Nyay Adhikar Rakshak party" is having maximum votes.
 - Maharashtra state is having maximum votes.
+- Chevella is having highest constituency.
 - Nota is having most voted candidate.
 - The maximum candidates is won from Maharashtra state.
